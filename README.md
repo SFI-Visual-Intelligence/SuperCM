@@ -1,3 +1,5 @@
+Paper: Supercm: Revisiting Clustering for Semi-Supervised Learning ([Link](https://api.nva.unit.no/publication/0198cc66f63d-2234b1bb-43c8-4277-bc43-a54337119b7c))
+
 # SUPERCM: Revisiting Clustering for Semi-Supervised Learning
 This repository contains the source codes for the paper [SUPERCM: Revisiting Clustering for Semi-Supervised Learning](archive link coming soon).</br>
 Accepted at *IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP 2023)*
